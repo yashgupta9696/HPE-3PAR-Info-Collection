@@ -1,4 +1,6 @@
 # HPE_work
+****SEE RAW FOR BETTER VIEW****
+
 Used to fetch all the details from 3PAR using a Tkinter GUI. 
 Just type "python cpg_info_all.py" to start the script.
 It will ask the user about the different IP Addresses of the 3PAR(s) and the corresponding username(s) and password(s).
